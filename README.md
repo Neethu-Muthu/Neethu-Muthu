@@ -1,4 +1,4 @@
-# Hi there, I'm [Neethu M]! 👋
+# Hi there, I'm Neethu M! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
