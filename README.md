@@ -1,3 +1,5 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neethu M
+
 # 💫 About Me:
 Hey there! I’m a student exploring the realms of web development by day and diving into the blockchain universe through my PG diploma. 🚀 My current mission? Mastering the MERN stack and unlocking the secrets of decentralized tech.<br><br>I thrive on solving coding puzzles and bringing innovative ideas to life. Whether it's building cool web apps or delving into blockchain, I’m always up for the next adventure. When I’m not coding, I’m probably lost in tech trends or plotting my next big project. 🌟
 
