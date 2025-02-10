@@ -1,7 +1,9 @@
 # 🌟✨ Hello, Cosmic Coders! I’m Neethu—Navigating the Digital Universe with Code and Curiosity! 🚀🌌
 
 # 💫 About Me:
-Hey there! I’m a student exploring the realms of web development by day and diving into the blockchain universe through my PG diploma. 🚀 My current mission? Mastering the MERN stack and unlocking the secrets of decentralized tech.<br><br>I thrive on solving coding puzzles and bringing innovative ideas to life. Whether it's building cool web apps or delving into blockchain, I’m always up for the next adventure. When I’m not coding, I’m probably lost in tech trends or plotting my next big project. 🌟
+Hey there! I’m passionate about exploring the blockchain universe through my PG diploma and unlocking the potential of decentralized technology. 🚀
+
+I love solving coding challenges and bringing innovative ideas to life. Whether it’s building on the blockchain or experimenting with new tech, I’m always up for the next adventure. When I’m not coding, I’m probably diving into the latest tech trends or brainstorming my next big project. 🌟
 
 
 ## 🌐 Socials:
