@@ -3,79 +3,77 @@
 
 
 
-I architect decentralized systems with **protocol-first thinking**, secure smart contract logic,  
-and scalable backend infrastructures for real-world finance + identity systems.
++ I architect consensus, trust & token economies.
+! Security isn't a feature — it's the baseline.
 
-> I don't just write blockchain — I design how trust flows.
+---
+<br>
+🧠 CORE STRENGTH MODULES
+
+Smart Contracts:     Solidity · DAML, Go , Nodejs
+DLT Networks:        Hyperledger Fabric · Canton
+Financial Systems:   CBDC · RWA Tokenization · Money Markets
+System Design:       Ledger-backed API Architectures
+Frontend Ops:        MERN Minimal UI · Optimized UX Flow
 
 ---
 
-### 🧠 Core Strengths  
-- Smart Contract Engineering (Ethereum + DAML)  
-- Hyperledger Fabric & Canton Based Enterprise Networks  
-- CBDC Systems, Tokenized RWA, Digital Money Markets  
-- dApp Architecture · Ledger-driven Backend APIs  
-- MERN Stack — UI that’s functional, minimal and purposeful  
+<br>
+🔥 MAJOR PROJECTS — COMPILED
 
+📌 CBDC Retail Simulation
+│ Stack: Hyperledger Fabric · Go · Docker
+│ Role: Retail Ledger Architecture + Wallet Flow
+└─► Onboarding → Issuance → Transfer → Redemption (Full lifecycle)
+
+📌 RWA Fractional Tokenization Engine
+│ Stack: DAML · Canton · Node
+│ Role: Token Minting Logic + Ownership Settlement
+└─► Real-estate split into fractional digital units + instant ledger update
+
+📌 Digital Money Market (T-Bill Tokenization)
+│ Stack: DAML · Canton
+│ Role: Instrument Lifecycle · Purchase · Redemption
+└─► T-Bills tokenized as tradable ledger assets with secure signature workflow
+
+📌 SSI Diploma Verification System
+│ Stack: Hyperledger Identus · React
+│ Role: DID + VC Flow (Issuer → Holder → Verifier)
+└─► Fake-proof certificates with cryptographic provenance
+
+📌 TicketMaster On-Chain Seats
+│ Stack: Solidity · React · Hardhat · MetaMask
+│ Role: Smart contract marketplace for event seats
+└─► No fraud · No duplicates · Immutable reservation record
+---
+<br>
+🧩 TECH STACK — MACHINE READABLE
+> Blockchain: Solidity | Ethereum | Hyperledger Fabric | DAML | Canton | Hardhat
+> Backend:   Node.js | Express.js | Docker | MongoDB | Go | MySQL
+> Frontend:  React | Vite | TailwindCSS
+> ML Tools:  TensorFlow | PyTorch | NumPy | Pandas
+> Utilities: Git | GitHub | GitLab | Postman | Vercel
+---
+<br>
+🔬 CURRENTLY DEBUGGING / RESEARCHING
+$ interbank settlement rails over DLT
+$ zero-knowledge + privacy-preserving compute
+$ institutional tokenization infrastructure
+---
+<br>
+📈 GITHUB ANALYTICS
+---
+<br>
+👣 ENGINEERING IDENTITY
++ cryptography is my syntax
+# distributed systems are my environment
+! I build ledgers like infrastructure — not like POCs.
+---
+br>
+🔗 CONNECT://
+LinkedIn  →  https://linkedin.com/in/neethumuthu  
+Portfolio →  https://neethu-protfolio-using-react-gi1m.vercel.app/
 ---
 
-### 🧩 Tech Stack
-
-#### 🟣 Blockchain & DLT
-`Solidity` · `Ethereum` · `Hyperledger Fabric` · `DAML` · `Canton Network` · `Hardhat`
-
-#### 🟢 Backend
-`Node.js` · `Express.js` · `Go` · `Docker` · `MongoDB` · `MySQL`
-
-#### 🔵 Frontend
-`React` · `Vite` · `TailwindCSS` · `HTML/CSS`
-
-#### 🧪 ML & Research Tools
-`Python` · `TensorFlow` · `PyTorch` · `NumPy` · `Pandas`
-
-#### ⚙ Tools & DevOps
-`Git` · `GitHub` · `Postman` · `Vercel` · `GitLab`
 
 ---
-
-## 🔥 Major Projects
-
-| Project | Stack | What I Built |
-|--------|--------|--------------|
-| **CBDC Simulation (Retail Layer)** | Hyperledger Fabric · Go · Docker | Architected full retail CBDC lifecycle — onboarding → issuance → transfer → redemption. Smart contracts + API gateway with RBAC & wholesale sync. |
-| **RWA Fractional Tokenization** | DAML · Canton · Node | Tokenized real estate assets into fractions. Designed contract rules, mint flows, ownership transfer + investor API. Instant ledger settlement. |
-| **Digital Money Market (T-Bill Tokenization)** | DAML · Canton | Built treasury bill tokenization, purchase, redemption flow. Ownership update via secure signature workflows + domain configuration. |
-| **SSI-Based Digital Diploma System** | Hyperledger Identus · React | DID-enabled credential flow — issuer → holder → verifier. Wallet issuance, on-chain signature verification, trust without central DB. |
-| **TicketMaster DApp** | Solidity · Hardhat · React · MetaMask | On-chain ticket lifecycle — seat minting, purchase, non-duplicable ownership. Eliminates fraud & double-booking. |
-
----
-
-### 🔬 Currently Researching  
-- Interbank settlement networks on distributed ledger  
-- Privacy-preserving computation in financial chains  
-- Architecture for institutional-grade tokenization systems  
-
----
-
-## 📈 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=neethu-muthu&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=neethu-muthu&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neethu-muthu&theme=dark&layout=compact)
-
----
-
-### 👣 Engineering Identity
-
-> Cryptography is my language.  
-> Distributed systems are my playground.  
-> **Building Web3 with precision, logic & elegance.**
-
----
-
-### 🔗 Connect  
-🔷 LinkedIn: **https://linkedin.com/in/neethumuthu**  
-🔗 Portfolio: **https://neethu-protfolio-using-react-gi1m.vercel.app/**  
-
-[![](https://visitcount.itsvg.in/api?id=neethu-muthu&icon=2&color=0)](https://visitcount.itsvg.in)
-
