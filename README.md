@@ -1,5 +1,6 @@
-# ⚡ Neethu M  
-### Blockchain Engineer | Web3 Systems Developer | MERN + Distributed Ledger Specialist  
+<h1 align="center">⚡ NEETHU M ⚡</h1>
+<h3 align="center">Blockchain Engineer · Web3 Systems Developer · Distributed Ledger Architect</h3>
+
 
 Engineering decentralized systems with **rigor, clarity and zero fluff**.  
 I work where cryptography meets systems architecture — building blockchains, smart contract ecosystems,  
