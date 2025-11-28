@@ -1,97 +1,80 @@
-# 👋 Hey, I'm Neethu M  
-#### Blockchain Engineer • Web3 Builder • MERN Developer  
-**Hyperledger Fabric | Ethereum | DAML | Golang | Distributed Systems**
+# ⚡ Neethu M  
+### Blockchain Engineer | Web3 Systems Developer | MERN + Distributed Ledger Specialist  
 
-I build technology with intention — clean architecture, secure smart contracts, and scalable systems that actually work in the real world.  
-Blockchain isn’t just a buzzword to me — it's a framework for trust, automation, and digital value.  
+Engineering decentralized systems with **rigor, clarity and zero fluff**.  
+I work where cryptography meets systems architecture — building blockchains, smart contract ecosystems,  
+and backend infrastructures that scale securely in real-world environments.
 
-Currently deep-diving into enterprise-grade Web3 infra, CBDC-style networks, and RWA tokenization.  
-Open-source, research-heavy, and driven by the desire to engineer systems beyond the ordinary.
-
----
-
-### 🧩 Tech Stack — Where I Operate Best
-
-## 🟣 Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-0E6F77?style=for-the-badge&logo=hyperledger&logoColor=white)
-![DAML](https://img.shields.io/badge/DAML-2F67F6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYwIiB2aWV3Qm94PSIwIDAgMTIwIDYwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik02MCAwQzI2Ljg2MiAwIDAgMjYuODYyIDAgNjBTMjYuODYyIDEyMCA2MCAxMjAgMTIwIDkzLjEzOCAxMjAgNjBDMTIwIDI2Ljg2MiA5My4xMzggMCA2MCAwWiIgZmlsbD0iI0ZGRiIvPgogIDxwYXRoIGQ9Ik02MCAxNEM4MS40NzUgMTQgOTggMzAuNTI1IDk4IDUyQzk4IDczLjQ3NSA4MS40NzUgOTAgNjAgOTBDMzguNTI1IDkwIDIyIDczLjQ3NSAyMiA1MkMyMiAzMC41MjUgMzguNTI1IDE0IDYwIDE0WiIgZmlsbD0iIzJGNjdGNiIvPgo8L3N2Zz4=&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-00C8D4?style=for-the-badge&logo=hardhat&logoColor=white)
-![Canton](https://img.shields.io/badge/Canton%20Network-4B0082?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+> Code to me is not just implementation — it's system design, trust, and protocol logic.
 
 ---
 
-## 🟢 Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+### 🧠 What I Specialize In
+🚀 Smart Contract Engineering • Public/Private Chain Development  
+🏛 Enterprise-grade Blockchain Infra (Fabric, DAML, Canton)  
+💱 CBDC networks · RWA Tokenization · dApp Architecture  
+⚙️ Backend Systems & API Engineering  
+🎯 Clean UI with React + Tailwind (not just pretty — purposeful)
 
 ---
 
-## 🔵 Frontend / UI Engineering
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🧩 Tech Stack
+
+#### 🟣 Blockchain & Web3 Core
+`Solidity` • `Ethereum` • `Hyperledger Fabric` • `DAML` • `Hardhat` • `Canton Network`
+
+#### 🟢 Backend Engineering
+`Node.js` • `Express.js` • `Docker` • `Go` • `MongoDB` • `MySQL`
+
+#### 🔵 Frontend Engineering
+`React` • `Vite` • `TailwindCSS` • `HTML5 / CSS3`
+
+#### 🧪 Machine Learning & Research Tools
+`Python` • `TensorFlow` • `PyTorch` • `scikit-learn` • `NumPy` • `Pandas`
+
+#### ⚙ DevOps & Utilities
+`Git` • `GitHub` • `Postman` • `Vercel` • `GitLab`
 
 ---
 
-## 🧪 Machine Learning & Data Science
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+### 🔥 Featured Projects
+
+| Project | Tech | What I Built |
+|---|---|---|
+| **CBDC Simulation (Retail Layer)** | Hyperledger Fabric, Node, Docker | Designed the complete retail-layer architecture for issuing & transacting digital currency. |
+| **NFT Marketplace Prototype** | Solidity, React, Hardhat | Wallet-based auth, buying/selling mechanism, on-chain marketplace logic. |
+| **Secure e-Voting System** | Blockchain + Encryption | Tamper-proof vote recording, audit trails, anonymity-preserving validation. |
+| **DAML Asset Registry** | DAML, Canton | Tokenization + lifecycle management for digital assets using ledger rules. |
+
+> *More builds always coming — research + development is my constant state.*
 
 ---
 
-## 🛠 Tools, DevOps & Others
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-
-> *Breaking systems apart, understanding them from the core, and rebuilding them stronger — that’s my process.*
+### 🔬 Currently Exploring
+- Interbank settlement on distributed ledger  
+- Privacy-preserving cryptographic protocols  
+- Institutional-grade tokenization architectures  
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/neethumuthu)
+### 📊 GitHub Intelligence
 
-Portfolio → https://neethu-protfolio-using-react-gi1m.vercel.app/
-
----
-
-### 📊 GitHub at a Glance
-
-![](https://github-readme-stats.vercel.app/api?username=neethu-muthu&theme=dark&hide_border=false&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=neethu-muthu&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neethu-muthu&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=neethu-muthu&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=neethu-muthu&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neethu-muthu&theme=dark&layout=compact)
 
 ---
 
-### 🏆 Highlights & Milestones
-![](https://github-profile-trophy.vercel.app/?username=neethu-muthu&theme=darkhub&no-frame=true&margin-w=10)
+### 👣 Identity as a Technologist
+
+> I don’t just *use* technology — I dissect it, rebuild it, and push it further.  
+> Precision in logic. Elegance in architecture. **That’s my engineering style.**
 
 ---
 
-> **Building like a woman in tech — analytical, precise, and unstoppable.**  
-> _Optimizing systems, shipping code, and making Web3 a little more real every day._
+### 🔗 Connect
+
+[LinkedIn](https://linkedin.com/in/neethumuthu)  
+Portfolio → **https://neethu-protfolio-using-react-gi1m.vercel.app/**
 
 [![](https://visitcount.itsvg.in/api?id=neethu-muthu&icon=2&color=0)](https://visitcount.itsvg.in)
