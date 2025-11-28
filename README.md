@@ -1,80 +1,79 @@
 # ⚡ Neethu M  
-### Blockchain Engineer | Web3 Systems Developer | MERN + Distributed Ledger Specialist  
+### Blockchain Engineer | Web3 Systems Developer | Distributed Ledger Architect  
 
-Engineering decentralized systems with **rigor, clarity and zero fluff**.  
-I work where cryptography meets systems architecture — building blockchains, smart contract ecosystems,  
-and backend infrastructures that scale securely in real-world environments.
+I architect decentralized systems with **protocol-first thinking**, secure smart contract logic,  
+and scalable backend infrastructures for real-world finance + identity systems.
 
-> Code to me is not just implementation — it's system design, trust, and protocol logic.
+> I don't just write blockchain — I design how trust flows.
 
 ---
 
-### 🧠 What I Specialize In
-🚀 Smart Contract Engineering • Public/Private Chain Development  
-🏛 Enterprise-grade Blockchain Infra (Fabric, DAML, Canton)  
-💱 CBDC networks · RWA Tokenization · dApp Architecture  
-⚙️ Backend Systems & API Engineering  
-🎯 Clean UI with React + Tailwind (not just pretty — purposeful)
+### 🧠 Core Strengths  
+- Smart Contract Engineering (Ethereum + DAML)  
+- Hyperledger Fabric & Canton Based Enterprise Networks  
+- CBDC Systems, Tokenized RWA, Digital Money Markets  
+- dApp Architecture · Ledger-driven Backend APIs  
+- MERN Stack — UI that’s functional, minimal and purposeful  
 
 ---
 
 ### 🧩 Tech Stack
 
-#### 🟣 Blockchain & Web3 Core
-`Solidity` • `Ethereum` • `Hyperledger Fabric` • `DAML` • `Hardhat` • `Canton Network`
+#### 🟣 Blockchain & DLT
+`Solidity` · `Ethereum` · `Hyperledger Fabric` · `DAML` · `Canton Network` · `Hardhat`
 
-#### 🟢 Backend Engineering
-`Node.js` • `Express.js` • `Docker` • `Go` • `MongoDB` • `MySQL`
+#### 🟢 Backend
+`Node.js` · `Express.js` · `Go` · `Docker` · `MongoDB` · `MySQL`
 
-#### 🔵 Frontend Engineering
-`React` • `Vite` • `TailwindCSS` • `HTML5 / CSS3`
+#### 🔵 Frontend
+`React` · `Vite` · `TailwindCSS` · `HTML/CSS`
 
-#### 🧪 Machine Learning & Research Tools
-`Python` • `TensorFlow` • `PyTorch` • `scikit-learn` • `NumPy` • `Pandas`
+#### 🧪 ML & Research Tools
+`Python` · `TensorFlow` · `PyTorch` · `NumPy` · `Pandas`
 
-#### ⚙ DevOps & Utilities
-`Git` • `GitHub` • `Postman` • `Vercel` • `GitLab`
-
----
-
-### 🔥 Featured Projects
-
-| Project | Tech | What I Built |
-|---|---|---|
-| **CBDC Simulation (Retail Layer)** | Hyperledger Fabric, Node, Docker | Designed the complete retail-layer architecture for issuing & transacting digital currency. |
-| **NFT Marketplace Prototype** | Solidity, React, Hardhat | Wallet-based auth, buying/selling mechanism, on-chain marketplace logic. |
-| **Secure e-Voting System** | Blockchain + Encryption | Tamper-proof vote recording, audit trails, anonymity-preserving validation. |
-| **DAML Asset Registry** | DAML, Canton | Tokenization + lifecycle management for digital assets using ledger rules. |
-
-> *More builds always coming — research + development is my constant state.*
+#### ⚙ Tools & DevOps
+`Git` · `GitHub` · `Postman` · `Vercel` · `GitLab`
 
 ---
 
-### 🔬 Currently Exploring
-- Interbank settlement on distributed ledger  
-- Privacy-preserving cryptographic protocols  
-- Institutional-grade tokenization architectures  
+## 🔥 Major Projects
+
+| Project | Stack | What I Built |
+|--------|--------|--------------|
+| **CBDC Simulation (Retail Layer)** | Hyperledger Fabric · Node.js · Docker | Architected full retail CBDC lifecycle — onboarding → issuance → transfer → redemption. Smart contracts + API gateway with RBAC & wholesale sync. |
+| **RWA Fractional Tokenization** | DAML · Canton · Node | Tokenized real estate assets into fractions. Designed contract rules, mint flows, ownership transfer + investor API. Instant ledger settlement. |
+| **Digital Money Market (T-Bill Tokenization)** | DAML · Canton | Built treasury bill tokenization, purchase, redemption flow. Ownership update via secure signature workflows + domain configuration. |
+| **SSI-Based Digital Diploma System** | Hyperledger Identus · React | DID-enabled credential flow — issuer → holder → verifier. Wallet issuance, on-chain signature verification, trust without central DB. |
+| **TicketMaster DApp** | Solidity · Hardhat · React · MetaMask | On-chain ticket lifecycle — seat minting, purchase, non-duplicable ownership. Eliminates fraud & double-booking. |
 
 ---
 
-### 📊 GitHub Intelligence
-
-![](https://github-readme-stats.vercel.app/api?username=neethu-muthu&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=neethu-muthu&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neethu-muthu&theme=dark&layout=compact)
-
----
-
-### 👣 Identity as a Technologist
-
-> I don’t just *use* technology — I dissect it, rebuild it, and push it further.  
-> Precision in logic. Elegance in architecture. **That’s my engineering style.**
+### 🔬 Currently Researching  
+- Interbank settlement networks on distributed ledger  
+- Privacy-preserving computation in financial chains  
+- Architecture for institutional-grade tokenization systems  
 
 ---
 
-### 🔗 Connect
+## 📈 GitHub Analytics
 
-[LinkedIn](https://linkedin.com/in/neethumuthu)  
-Portfolio → **https://neethu-protfolio-using-react-gi1m.vercel.app/**
+![Stats](https://github-readme-stats.vercel.app/api?username=neethu-muthu&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=neethu-muthu&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neethu-muthu&theme=dark&layout=compact)
+
+---
+
+### 👣 Engineering Identity
+
+> Cryptography is my language.  
+> Distributed systems are my playground.  
+> **Building Web3 with precision, logic & elegance.**
+
+---
+
+### 🔗 Connect  
+🔷 LinkedIn: **https://linkedin.com/in/neethumuthu**  
+🔗 Portfolio: **https://neethu-protfolio-using-react-gi1m.vercel.app/**  
 
 [![](https://visitcount.itsvg.in/api?id=neethu-muthu&icon=2&color=0)](https://visitcount.itsvg.in)
+
