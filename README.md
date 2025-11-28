@@ -1,51 +1,62 @@
-# 👋 Hi, I'm Neethu M  
-**Blockchain Developer | MERN Stack Engineer | Hyperledger Fabric • Ethereum • DAML**
+# 👋 Hey, I'm Neethu M  
+#### Blockchain Engineer • Web3 Builder • MERN Developer  
+**Hyperledger Fabric | Ethereum | DAML | Golang | Distributed Systems**
 
-I design and build decentralized applications, enterprise blockchain networks, and scalable web systems that solve real-world problems. My work combines strong fundamentals in distributed ledger technology with robust full-stack engineering, supported by a background in PG Diploma – Blockchain.
+I build technology with intention — clean architecture, secure smart contracts, and scalable systems that actually work in the real world.  
+Blockchain isn’t just a buzzword to me — it's a framework for trust, automation, and digital value.  
 
-I enjoy translating ideas into architecture → code → deployment, with a focus on security, clean code, and performance. Currently exploring enterprise blockchain interoperability, asset tokenization, and advanced smart contract development.
-
----
-
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neethumuthu)
-
-Portfolio → https://neethu-protfolio-using-react-gi1m.vercel.app/  
+Currently deep-diving into enterprise-grade Web3 infra, CBDC-style networks, and RWA tokenization.  
+Open-source, research-heavy, and driven by the desire to engineer systems beyond the ordinary.
 
 ---
 
-### 🧩 Core Skills & Technologies
+### 🧩 Tech Stack — Where I Operate Best
 
-#### **Blockchain**
-- Hyperledger Fabric, Ethereum, DAML, Canton Network  
-- Solidity, Chaincode (Golang/Node.js)  
-- Smart Contracts, Token Standards, Wallet Integration, Web3.js, Hardhat  
+#### 🟣 Blockchain & Web3
+- Hyperledger Fabric, DAML, Canton Network  
+- Ethereum Smart Contracts (Solidity)  
+- Chaincode in Golang / Node.js  
+- Hardhat, Web3.js, Wallet Integration  
 
-#### **Full-Stack Development**
-- JavaScript, React, Node.js, Express.js, Vite  
-- MongoDB, MySQL, REST APIs  
-- Docker, Git, GitHub, GitLab  
+#### 🟢 Backend / Systems
+- Node.js, Express.js  
+- REST APIs, Authentication, Sessions  
+- Docker, Git, DevOps basics  
 
-#### **Other Technical Experience**
-- Python, C, C++, TensorFlow, PyTorch  
-- Pandas, NumPy, Matplotlib, scikit-learn  
-- TailwindCSS, HTML5, CSS3, Vercel, GitHub Pages  
+#### 🔵 Frontend & UI
+- React, Vite, TailwindCSS  
+- Component-driven UI, SPA architecture  
+
+#### ⚙️ Also Experienced With
+Python • C/C++ • SQL/MySQL • MongoDB  
+TensorFlow • PyTorch • Pandas • NumPy  
+Matplotlib • LaTeX • GitHub Pages • Vercel  
+
+> *Breaking systems apart, understanding them from the core, and rebuilding them stronger — that’s my process.*
 
 ---
 
-### 📊 GitHub Insights
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/neethumuthu)
 
-![](https://github-readme-stats.vercel.app/api?username=neethu-muthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
+Portfolio → https://neethu-protfolio-using-react-gi1m.vercel.app/
+
+---
+
+### 📊 GitHub at a Glance
+
+![](https://github-readme-stats.vercel.app/api?username=neethu-muthu&theme=dark&hide_border=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neethu-muthu&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neethu-muthu&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-### 🏆 Achievements & Highlights
+### 🏆 Highlights & Milestones
 ![](https://github-profile-trophy.vercel.app/?username=neethu-muthu&theme=darkhub&no-frame=true&margin-w=10)
 
 ---
 
-> _Focused on building reliable decentralized systems, improving everyday infrastructure using blockchain, and continuously learning emerging technologies._
+> **Building like a woman in tech — analytical, precise, and unstoppable.**  
+> _Optimizing systems, shipping code, and making Web3 a little more real every day._
 
 [![](https://visitcount.itsvg.in/api?id=neethu-muthu&icon=2&color=0)](https://visitcount.itsvg.in)
