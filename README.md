@@ -1,5 +1,7 @@
-# ⚡ Neethu M  
-### Blockchain Engineer | Web3 Systems Developer | Distributed Ledger Architect  
+<h1 align="center">⚡ NEETHU M ⚡</h1>
+<h3 align="center">Blockchain Engineer · Web3 Systems Developer · Distributed Ledger Architect</h3>
+
+
 
 I architect decentralized systems with **protocol-first thinking**, secure smart contract logic,  
 and scalable backend infrastructures for real-world finance + identity systems.
@@ -40,7 +42,7 @@ and scalable backend infrastructures for real-world finance + identity systems.
 
 | Project | Stack | What I Built |
 |--------|--------|--------------|
-| **CBDC Simulation (Retail Layer)** | Hyperledger Fabric · Node.js · Docker | Architected full retail CBDC lifecycle — onboarding → issuance → transfer → redemption. Smart contracts + API gateway with RBAC & wholesale sync. |
+| **CBDC Simulation (Retail Layer)** | Hyperledger Fabric · Go · Docker | Architected full retail CBDC lifecycle — onboarding → issuance → transfer → redemption. Smart contracts + API gateway with RBAC & wholesale sync. |
 | **RWA Fractional Tokenization** | DAML · Canton · Node | Tokenized real estate assets into fractions. Designed contract rules, mint flows, ownership transfer + investor API. Instant ledger settlement. |
 | **Digital Money Market (T-Bill Tokenization)** | DAML · Canton | Built treasury bill tokenization, purchase, redemption flow. Ownership update via secure signature workflows + domain configuration. |
 | **SSI-Based Digital Diploma System** | Hyperledger Identus · React | DID-enabled credential flow — issuer → holder → verifier. Wallet issuance, on-chain signature verification, trust without central DB. |
