@@ -58,5 +58,8 @@ Frontend    → React | Vite | TailwindCSS
 ML Tools    → TensorFlow | PyTorch | NumPy | Pandas
 Utilities   → Git | GitHub | GitLab | Postman | Vercel
 
+```bash
+
 ---
+
 ## 🔬 Currently Researching
