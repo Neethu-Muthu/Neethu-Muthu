@@ -1,65 +1,80 @@
-<h1 align="center">⚡ NEETHU M ⚡</h1>
-<h3 align="center">Blockchain Engineer · Web3 Systems Developer · Distributed Ledger Architect</h3>
+# ⚡ Neethu M  
+### Blockchain Engineer | Web3 Systems Developer | MERN + Distributed Ledger Specialist  
 
-<p align="center">
-  <b>I architect consensus, trust & token economies.</b><br>
-  <b>Security isn't a feature — it's the baseline.</b>
-</p>
+Engineering decentralized systems with **rigor, clarity and zero fluff**.  
+I work where cryptography meets systems architecture — building blockchains, smart contract ecosystems,  
+and backend infrastructures that scale securely in real-world environments.
 
----
-
-## 🧠 Core Strength Modules
-
-| Area | Tech / Focus |
-|------|--------------|
-| Smart Contracts | Solidity · DAML · Go · Node.js |
-| DLT Networks | Hyperledger Fabric · Canton |
-| Financial Systems | CBDC · RWA Tokenization · Money Markets |
-| Architecture | Ledger-backed API Platforms · Distributed Compute |
-| Frontend | MERN Minimal UI · UX-optimized Flow |
+> Code to me is not just implementation — it's system design, trust, and protocol logic.
 
 ---
 
-## 🔥 Major Projects — Compiled
-
-### 📌 CBDC Retail Simulation  
-**Stack:** Hyperledger Fabric · Go · Docker  
-**Role:** Retail ledger architecture + wallet flow  
-➡ Onboarding → Issuance → Transfer → Redemption (Full lifecycle)
-
-### 📌 RWA Fractional Tokenization Engine  
-**Stack:** DAML · Canton · Node  
-**Role:** Token minting + fractional ownership settlement  
-➡ Real-estate broken into digital fractions with instant ledger updates
-
-### 📌 Digital Money Market (T-Bill Tokenization)  
-**Stack:** DAML · Canton  
-**Role:** Purchase/redemption lifecycle + regulatory workflows  
-➡ Tokenized T-Bills = tradable on-ledger assets with secure signature flow
-
-### 📌 SSI Diploma Verification System  
-**Stack:** Hyperledger Identus · React  
-**Role:** DID + VC flow (Issuer → Holder → Verifier)  
-➡ Fake-proof credentials with decentralized provenance
-
-### 📌 TicketMaster On-Chain Seats  
-**Stack:** Solidity · Hardhat · React · MetaMask  
-**Role:** Smart contract marketplace for event seats  
-➡ No duplicates · No fraud · Immutable reservation ledger
+### 🧠 What I Specialize In
+🚀 Smart Contract Engineering • Public/Private Chain Development  
+🏛 Enterprise-grade Blockchain Infra (Fabric, DAML, Canton)  
+💱 CBDC networks · RWA Tokenization · dApp Architecture  
+⚙️ Backend Systems & API Engineering  
+🎯 Clean UI with React + Tailwind (not just pretty — purposeful)
 
 ---
 
-## 🧩 Tech Stack — Machine Readable
+### 🧩 Tech Stack
 
-```bash
-Blockchain  → Solidity | Ethereum | Hyperledger Fabric | DAML | Canton | Hardhat
-Backend     → Node.js | Express.js | Docker | MongoDB | Go | MySQL
-Frontend    → React | Vite | TailwindCSS
-ML Tools    → TensorFlow | PyTorch | NumPy | Pandas
-Utilities   → Git | GitHub | GitLab | Postman | Vercel
+#### 🟣 Blockchain & Web3 Core
+`Solidity` • `Ethereum` • `Hyperledger Fabric` • `DAML` • `Hardhat` • `Canton Network`
 
-```bash
+#### 🟢 Backend Engineering
+`Node.js` • `Express.js` • `Docker` • `Go` • `MongoDB` • `MySQL`
+
+#### 🔵 Frontend Engineering
+`React` • `Vite` • `TailwindCSS` • `HTML5 / CSS3`
+
+#### 🧪 Machine Learning & Research Tools
+`Python` • `TensorFlow` • `PyTorch` • `scikit-learn` • `NumPy` • `Pandas`
+
+#### ⚙ DevOps & Utilities
+`Git` • `GitHub` • `Postman` • `Vercel` • `GitLab`
 
 ---
 
-## 🔬 Currently Researching
+### 🔥 Featured Projects
+
+| Project | Tech | What I Built |
+|---|---|---|
+| **CBDC Simulation (Retail Layer)** | Hyperledger Fabric, Node, Docker | Designed the complete retail-layer architecture for issuing & transacting digital currency. |
+| **NFT Marketplace Prototype** | Solidity, React, Hardhat | Wallet-based auth, buying/selling mechanism, on-chain marketplace logic. |
+| **Secure e-Voting System** | Blockchain + Encryption | Tamper-proof vote recording, audit trails, anonymity-preserving validation. |
+| **DAML Asset Registry** | DAML, Canton | Tokenization + lifecycle management for digital assets using ledger rules. |
+
+> *More builds always coming — research + development is my constant state.*
+
+---
+
+### 🔬 Currently Exploring
+- Interbank settlement on distributed ledger  
+- Privacy-preserving cryptographic protocols  
+- Institutional-grade tokenization architectures  
+
+---
+
+### 📊 GitHub Intelligence
+
+![](https://github-readme-stats.vercel.app/api?username=neethu-muthu&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=neethu-muthu&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neethu-muthu&theme=dark&layout=compact)
+
+---
+
+### 👣 Identity as a Technologist
+
+> I don’t just *use* technology — I dissect it, rebuild it, and push it further.  
+> Precision in logic. Elegance in architecture. **That’s my engineering style.**
+
+---
+
+### 🔗 Connect
+
+[LinkedIn](https://linkedin.com/in/neethumuthu)  
+Portfolio → **https://neethu-protfolio-using-react-gi1m.vercel.app/**
+
+[![](https://visitcount.itsvg.in/api?id=neethu-muthu&icon=2&color=0)](https://visitcount.itsvg.in)
