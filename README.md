@@ -27,6 +27,10 @@ and scalable backend infrastructures for real-world finance + identity systems.
 ![DAML](https://img.shields.io/badge/DAML-2F67F6?style=for-the-badge&logoColor=white)
 ![Canton Network](https://img.shields.io/badge/Canton%20Network-4B0082?style=for-the-badge)
 ![Hyperledger Identus](https://img.shields.io/badge/Hyperledger%20Identus-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![ERC-20](https://img.shields.io/badge/ERC--20-000000?style=for-the-badge)
+![ERC-721](https://img.shields.io/badge/ERC--721-000000?style=for-the-badge)
+![ERC-1155](https://img.shields.io/badge/ERC--1155-000000?style=for-the-badge)
+
 
 🧱 Full-Stack Development
 
