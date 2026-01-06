@@ -18,6 +18,7 @@ and scalable backend infrastructures for real-world finance + identity systems.
 ---
 # 💻 Tech Stack:
 ⛓️ Blockchain & Web3
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black)
