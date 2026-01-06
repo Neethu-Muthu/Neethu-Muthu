@@ -22,6 +22,7 @@ and scalable backend infrastructures for real-world finance + identity systems.
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-363636?style=for-the-badge)
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-0E6F77?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![DAML](https://img.shields.io/badge/DAML-2F67F6?style=for-the-badge&logoColor=white)
 ![Canton Network](https://img.shields.io/badge/Canton%20Network-4B0082?style=for-the-badge)
