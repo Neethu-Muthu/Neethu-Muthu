@@ -46,13 +46,6 @@ and scalable backend infrastructures for real-world finance + identity systems.
 
 ---
 
-## 📈 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=neethu-muthu&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=neethu-muthu&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neethu-muthu&theme=dark&layout=compact)
-
----
 
 ### 👣 Engineering Identity
 
