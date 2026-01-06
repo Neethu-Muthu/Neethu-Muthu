@@ -30,6 +30,7 @@ and scalable backend infrastructures for real-world finance + identity systems.
 ![ERC-20](https://img.shields.io/badge/ERC--20-000000?style=for-the-badge)
 ![ERC-721](https://img.shields.io/badge/ERC--721-000000?style=for-the-badge)
 ![ERC-1155](https://img.shields.io/badge/ERC--1155-000000?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 🧱 Full-Stack Development
