@@ -95,20 +95,19 @@ using **Hyperledger Fabric, DAML, and Ethereum**.
 
 ---
 
-## 📈 Engineering Signals
+## 🧩 System Design Mindset
 
-- Strong focus on **system design over isolated components**  
-- Experience building **production-style financial architectures**  
-- Deep interest in **ledger semantics, transaction finality, and state models**  
-- Actively working with **enterprise blockchain ecosystems**  
+- Treating blockchain as a **state machine**, not a database  
+- Designing around **transaction finality and consistency guarantees**  
+- Building systems with **clear lifecycle boundaries and invariants**  
 
 ---
 
 ## 🔬 Current Focus
 
-- Interbank settlement systems on distributed ledgers  
-- Privacy-preserving finance (ZK / confidential computation)  
-- Institutional-grade tokenization infrastructure  
+- Interbank settlement architecture on distributed ledgers  
+- Confidential finance (ZK, privacy-preserving computation)  
+- Scalable tokenization infrastructure for institutional use  
 
 ---
 
@@ -124,6 +123,16 @@ using **Hyperledger Fabric, DAML, and Ethereum**.
 
 - LinkedIn: https://linkedin.com/in/neethumuthu  
 - Portfolio: https://neethu-protfolio-using-react-gi1m.vercel.app/
+
+  ---
+
+## 🤝 Open to
+
+- Blockchain engineering roles  
+- Web3 backend / protocol engineering  
+- Financial infrastructure & tokenization systems  
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neethu-muthu&color=blue)
 
