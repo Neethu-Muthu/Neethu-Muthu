@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neethu-muthu&color=blue" />
 </p>
-<h1 align="center">⚡ Neethu M</h1>
+<h1 align="center"></h1> </Neethu M> </h1>
 <h3 align="center">Blockchain Engineer · Web3 Systems Architect</h3>
 
 Building **financial-grade blockchain systems** — CBDC, tokenized assets, and identity layers  
