@@ -1,139 +1,137 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neethu-muthu&color=blue" />
 </p>
-<h1 align="center"> Neethu M</h1>
+
+<h1 align="center">Neethu M</h1>
 <h3 align="center">Blockchain Engineer · Web3 Systems Architect</h3>
 
-Building **financial-grade blockchain systems** — CBDC, tokenized assets, and identity layers  
-using **Hyperledger Fabric, DAML, and Ethereum**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neethu-muthu&show_icons=true" />
+</p>
+
+---
+
+**Financial-grade blockchain systems**  
+CBDC · Tokenized Assets · Identity Layers  
+
+Built on **Hyperledger Fabric · DAML · Ethereum**
 
 > I design how trust flows.
 
 ---
 
-## 🧠 Engineering Focus
+## 🧠 Focus
 
-- Designing **end-to-end blockchain systems** (not just smart contracts)  
-- Building **ledger-centric backend architectures** with deterministic state  
-- Developing **financial primitives**: issuance, settlement, ownership, redemption  
-- Implementing **identity layers** using DID & verifiable credentials  
-
----
-
-## ⚙️ Core Capabilities
-
-- Smart Contract Engineering (**Solidity · DAML**)  
-- Enterprise Blockchain Systems (**Hyperledger Fabric · Canton**)  
-- Tokenization Systems (**RWA · CBDC · Digital Securities**)  
-- Backend Architecture (**Node.js · Event-driven APIs · RBAC systems**)  
-- dApp Development (**React · Web3 integrations · Minimal UI systems**)  
+- End-to-end blockchain systems (beyond contracts)  
+- Ledger-centric backend architectures  
+- Financial primitives: issuance · settlement · ownership  
+- Identity systems (DID · verifiable credentials)  
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Capabilities
 
-### 🧠 Primary
-`Solidity` · `DAML` · `Hyperledger Fabric` · `Canton` · `Node.js` · `Go`
-
-### 🧱 Supporting
-`React` · `Express` · `Docker` · `REST APIs` · `Git` · `Postman`
-
----
-
-## 🔥 Selected Projects
-
-### 🏦 CBDC Simulation — Retail Layer  
-**Hyperledger Fabric · Node.js · Docker**
-
-- Architected full **retail CBDC lifecycle**  
-  *(onboarding → issuance → transfer → redemption)*  
-- Developed **Fabric chaincode** for transaction logic and state transitions  
-- Built **Node.js API gateway** with RBAC and transaction orchestration  
-- Simulated **real-world banking flows and settlement behavior**  
-- Designed system for **integration with wholesale layer**
+- Smart Contracts → Solidity · DAML  
+- Enterprise Chains → Fabric · Canton  
+- Tokenization → RWA · CBDC · Securities  
+- Backend → Node.js · RBAC · Event-driven APIs  
+- dApps → React · Wallet integrations  
 
 ---
 
-### 🏠 RWA Fractional Tokenization  
-**DAML · Canton · Node.js**
+## 🧰 Stack
 
-- Tokenized **real estate assets into fractional ownership units**  
-- Designed contract lifecycle: **mint → distribute → transfer → redeem**  
-- Enabled **instant settlement** using Canton domain configuration  
-- Built investor interaction layer via backend APIs  
-- Modeled **ownership rights and transfer constraints**
+**Primary**  
+`Solidity` · `DAML` · `Fabric` · `Canton` · `Node.js` · `Go`
 
----
-
-### 💰 Digital Money Market — T-Bill Tokenization  
-**DAML · Canton**
-
-- Implemented **treasury bill tokenization and lifecycle management**  
-- Designed **secure purchase and redemption flows**  
-- Integrated **signature-based authorization mechanisms**  
-- Modeled financial instruments with **deterministic contract logic**
+**Supporting**  
+`React` · `Express` · `Docker` · `REST` · `Git`
 
 ---
 
-### 🪪 SSI-Based Digital Diploma System  
-**Hyperledger Identus · React**
+## 🔥 Projects
 
-- Built **decentralized identity system** using DID architecture  
-- Implemented flow: **issuer → holder → verifier**  
-- Developed **credential issuance and verification logic**  
-- Eliminated reliance on centralized databases for trust validation  
+### 🏦 CBDC — Retail Layer  
+`Fabric · Node.js · Docker`
 
----
-
-### 🎟️ Ticketing dApp (On-chain Ownership)  
-**Solidity · Hardhat · React · MetaMask**
-
-- Designed **non-duplicable NFT-based ticketing system**  
-- Implemented **seat minting, purchase, and transfer logic**  
-- Prevented fraud and double-booking via **on-chain ownership guarantees**  
-- Built frontend with **direct wallet interaction**
+- Full lifecycle → onboarding → issuance → transfer → redemption  
+- Chaincode for deterministic state transitions  
+- API gateway with RBAC + orchestration  
+- Modular design → ledger · API · access layers  
 
 ---
 
-## 🧩 System Design Mindset
+### 🏠 RWA Tokenization  
+`DAML · Canton`
 
-- Treating blockchain as a **state machine**, not a database  
-- Designing around **transaction finality and consistency guarantees**  
-- Building systems with **clear lifecycle boundaries and invariants**  
-
----
-
-## 🔬 Current Focus
-
-- Interbank settlement architecture on distributed ledgers  
-- Confidential finance (ZK, privacy-preserving computation)  
-- Scalable tokenization infrastructure for institutional use  
+- Fractional real estate ownership  
+- Contract lifecycle → mint → distribute → transfer → redeem  
+- Instant settlement via Canton domains  
+- Ownership invariants + transfer constraints  
 
 ---
 
-## 👣 Engineering Philosophy
+### 💰 T-Bill Tokenization  
+`DAML · Canton`
+
+- Treasury lifecycle modeling  
+- Secure purchase + redemption flows  
+- Signature-based authorization  
+- Deterministic financial contracts  
+
+---
+
+### 🪪 SSI Credential System  
+`Identus · React`
+
+- DID-based credential flow  
+- Issuer → Holder → Verifier  
+- Trust without central database  
+
+---
+
+### 🎟️ Ticketing dApp  
+`Solidity · React`
+
+- NFT-based ownership model  
+- Mint · purchase · transfer  
+- No duplication / fraud  
+
+---
+
+## 🧩 System Design
+
+- Blockchain as **state machine**  
+- Deterministic transitions + invariants  
+- Finality-aware architecture  
+
+---
+
+## 🔬 Current Work
+
+- Interbank settlement design  
+- Confidential finance (ZK)  
+- Institutional tokenization systems  
+
+---
+
+## 👣 Philosophy
 
 - Systems > scripts  
 - Determinism > assumptions  
-- Protocol design > surface-level implementation  
+- Protocols > UI  
+
+---
+
+## 🤝 Open To
+
+- Blockchain / Protocol Engineering  
+- Web3 Backend Systems  
+- Financial Infrastructure  
 
 ---
 
 ## 🔗 Connect
 
-- LinkedIn: https://linkedin.com/in/neethumuthu  
-- Portfolio: https://neethu-protfolio-using-react-gi1m.vercel.app/
-
-  ---
-
-## 🤝 Open to
-
-- Blockchain engineering roles  
-- Web3 backend / protocol engineering  
-- Financial infrastructure & tokenization systems  
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=neethu-muthu&color=blue)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neethu-muthu&show_icons=true&theme=default)
+- LinkedIn → https://linkedin.com/in/neethumuthu  
+- Portfolio → https://neethu-protfolio-using-react-gi1m.vercel.app/
