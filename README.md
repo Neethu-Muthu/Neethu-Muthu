@@ -1,10 +1,13 @@
-# ⚡ Neethu M  
-### Blockchain Engineer · Web3 Systems Architect  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neethu-muthu&color=blue" />
+</p>
+<h1 align="center">⚡ Neethu M</h1>
+<h3 align="center">Blockchain Engineer · Web3 Systems Architect</h3>
 
-Building **institutional-grade decentralized systems** across finance, identity, and tokenized assets.  
-Focused on **CBDC infrastructure, real-world asset tokenization, and ledger-driven backend architectures**.
+Building **financial-grade blockchain systems** — CBDC, tokenized assets, and identity layers  
+using **Hyperledger Fabric, DAML, and Ethereum**.
 
-> I design how trust flows — through code, protocols, and systems.
+> I design how trust flows.
 
 ---
 
