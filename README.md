@@ -5,9 +5,6 @@
 <h1 align="center">Neethu M</h1>
 <h3 align="center">Blockchain Engineer · Web3 Systems Architect</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neethu-muthu&show_icons=true" />
-</p>
 
 ---
 
