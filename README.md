@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neethu-muthu&color=blue" />
+  
 </p>
 
 <h1 align="center">Neethu M</h1>
