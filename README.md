@@ -1,134 +1,106 @@
+<h1 align="center">Neethu M</h1>
+<h3 align="center">Blockchain Engineer</h3>
+
 <p align="center">
-  
+  Hyperledger Fabric &nbsp;·&nbsp; DAML/Canton &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; Permissioned DLT &nbsp;·&nbsp; CBDC &nbsp;·&nbsp; RWA Tokenization
 </p>
 
-<h1 align="center">Neethu M</h1>
-<h3 align="center">Blockchain Engineer · Web3 Systems Architect</h3>
+---
 
+I work at the permissioned DLT layer — the infrastructure and protocol level that enterprise blockchain actually runs on.
+
+My core specialization is **Hyperledger Fabric**: network bootstrapping, MSP and certificate authority management, channel lifecycle, lifecycle chaincode deployment (Go), and Node.js SDK integration for transaction submission, querying, and event streaming.
+
+On the **DAML/Canton** side, I design and deploy participant node environments and author DAML smart contracts for multi-party workflows — land tokenization, ownership fractionalization, money market settlement — with explicit attention to authority, visibility, and divulgence models.
+
+Currently deploying a multi-cluster Fabric network across **Azure AKS and AWS EKS** using HLF Operator and Istio service mesh.
 
 ---
 
-**Financial-grade blockchain systems**  
-CBDC · Tokenized Assets · Identity Layers  
+## Stack
 
-Built on **Hyperledger Fabric · DAML · Ethereum**
+**Blockchain**
+`Hyperledger Fabric` · `DAML` · `Canton Network` · `Hyperledger Identus` · `Solidity`
 
-> I design how trust flows.
+**Chaincode & Smart Contracts**
+`Go` · `Node.js`
 
----
+**Infrastructure**
+`Kubernetes` · `Azure AKS` · `AWS EKS` · `HLF Operator` · `Istio` · `Helm` · `Docker`
 
-## 🧠 Focus
+**Backend**
+`Node.js` · `Express` · `REST APIs` · `Event-driven APIs` · `RBAC`
 
-- End-to-end blockchain systems (beyond contracts)  
-- Ledger-centric backend architectures  
-- Financial primitives: issuance · settlement · ownership  
-- Identity systems (DID · verifiable credentials)  
-
----
-
-## ⚙️ Capabilities
-
-- Smart Contracts → Solidity · DAML  
-- Enterprise Chains → Fabric · Canton  
-- Tokenization → RWA · CBDC · Securities  
-- Backend → Node.js · RBAC · Event-driven APIs  
-- dApps → React · Wallet integrations  
+**Frontend (supporting)**
+`React`
 
 ---
 
-## 🧰 Stack
+## Projects
 
-**Primary**  
-`Solidity` · `DAML` · `Fabric` · `Canton` · `Node.js` · `Go`
+### CBDC — Retail Layer
+`Hyperledger Fabric · Go · Node.js · Docker`
 
-**Supporting**  
-`React` · `Express` · `Docker` · `REST` · `Git`
-
----
-
-## 🔥 Projects
-
-### 🏦 CBDC — Retail Layer  
-`Fabric · Node.js · Docker`
-
-- Full lifecycle → onboarding → issuance → transfer → redemption  
-- Chaincode for deterministic state transitions  
-- API gateway with RBAC + orchestration  
-- Modular design → ledger · API · access layers  
+Full-lifecycle CBDC network: onboarding, issuance, transfer, redemption. Go chaincode covering deterministic state transitions across all transaction types. Node.js API gateway with RBAC and orchestration. Modular design separating ledger, API, and access layers.
 
 ---
 
-### 🏠 RWA Tokenization  
-`DAML · Canton`
+### RWA Tokenization — Fractional Real Estate
+`DAML · Canton Network`
 
-- Fractional real estate ownership  
-- Contract lifecycle → mint → distribute → transfer → redeem  
-- Instant settlement via Canton domains  
-- Ownership invariants + transfer constraints  
+Fractional real estate ownership on Canton. DAML contracts modelling parcel ownership, fractionalization logic, and transfer authority with explicit visibility rules. Instant settlement via Canton domains. Ownership invariants enforced at contract level.
 
 ---
 
-### 💰 T-Bill Tokenization  
-`DAML · Canton`
+### T-Bill Tokenization
+`DAML · Canton Network`
 
-- Treasury lifecycle modeling  
-- Secure purchase + redemption flows  
-- Signature-based authorization  
-- Deterministic financial contracts  
+Treasury bill lifecycle on Canton: purchase, holding, redemption. Signature-based authorization. Deterministic financial contracts with finality guarantees.
 
 ---
 
-### 🪪 SSI Credential System  
-`Identus · React`
+### CertiLink — Blockchain Certificate Management
+`Solidity · React · Ethereum`
 
-- DID-based credential flow  
-- Issuer → Holder → Verifier  
-- Trust without central database  
+Decentralized certificate issuance and verification. Smart contracts for on-chain certificate anchoring. Issuer and verifier flows with no central database dependency. → [View repo](https://github.com/Neethu-Muthu/CertiLink-DApp)
 
 ---
 
-### 🎟️ Ticketing dApp  
-`Solidity · React`
+### SSI Credential System
+`Hyperledger Identus · React`
 
-- NFT-based ownership model  
-- Mint · purchase · transfer  
-- No duplication / fraud  
+Self-sovereign identity credential flow built on Identus. DID-based issuance, holder management, and verifier presentation. Trust without a central registry.
 
 ---
 
-## 🧩 System Design
+### Automobile Lifecycle — Hyperledger Fabric
+`Hyperledger Fabric · Go · Minifabric`
 
-- Blockchain as **state machine**  
-- Deterministic transitions + invariants  
-- Finality-aware architecture  
-
----
-
-## 🔬 Current Work
-
-- Interbank settlement design  
-- Confidential finance (ZK)  
-- Institutional tokenization systems  
+Multi-org Fabric network for automobile lifecycle tracking: manufacture, sale, service history, ownership transfer. Go chaincode with full audit trail. → [View repo](https://github.com/Neethu-Muthu/Automobile-Minifabric-Golang)
 
 ---
 
-## 👣 Philosophy
+### SecureBallot — Blockchain Voting
+`Hyperledger Fabric · Node.js`
 
-- Systems > scripts  
-- Determinism > assumptions  
-- Protocols > UI  
-
----
-
-## 🤝 Open To
-
-- Blockchain / Protocol Engineering  
-- Web3 Backend Systems  
-- Financial Infrastructure  
+Permissioned voting system on Hyperledger Fabric. Confidential ballot submission with verifiable audit trail. Multi-org channel design. → [View repo](https://github.com/Neethu-Muthu/SecureBallot-Hyperledger)
 
 ---
 
-## 🔗 Connect
+## Design Principles
 
-- LinkedIn → https://linkedin.com/in/neethumuthu  
-- Portfolio → https://neethu-protfolio-using-react-gi1m.vercel.app/
+- Blockchain as a state machine: deterministic transitions, enforced invariants, finality-aware architecture
+- On-chain for trust; off-chain for scale — data separation by design
+- Permissioned DLT for enterprise: MSP-controlled access, endorsement policies, private data collections
+
+---
+
+## Open To
+
+Blockchain / Protocol Engineering &nbsp;·&nbsp; Enterprise DLT Infrastructure &nbsp;·&nbsp; Financial Infrastructure &nbsp;·&nbsp; CBDC & Tokenization Systems
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/neethumuthu) &nbsp;·&nbsp; [Portfolio](https://neethu-protfolio-using-react-gi1m.vercel.app/)
