@@ -13,7 +13,7 @@ My core specialization is **Hyperledger Fabric**: network bootstrapping, MSP and
 
 On the **DAML/Canton** side, I design and deploy participant node environments and author DAML smart contracts for multi-party workflows — land tokenization, ownership fractionalization, money market settlement — with explicit attention to authority, visibility, and divulgence models.
 
-Currently deploying a multi-cluster Fabric network across **Azure AKS and AWS EKS** using HLF Operator and Istio service mesh.
+Currently resolving multi-cluster production blockers in a live Hyperledger Fabric deployment spanning **Azure AKS and AWS EKS**, using HLF Operator and Istio service mesh.
 
 ---
 
@@ -36,54 +36,60 @@ Currently deploying a multi-cluster Fabric network across **Azure AKS and AWS EK
 
 ---
 
-## Projects
+## Client & Enterprise Engagements
+*Confidential — architecture and approach described below; code and repos are under client NDA and not publicly shared.*
 
-### CBDC — Retail Layer
+### CBDC — Retail Layer 🔒
 `Hyperledger Fabric · Go · Node.js · Docker`
 
 Full-lifecycle CBDC network: onboarding, issuance, transfer, redemption. Go chaincode covering deterministic state transitions across all transaction types. Node.js API gateway with RBAC and orchestration. Modular design separating ledger, API, and access layers.
 
 ---
 
-### RWA Tokenization — Fractional Real Estate
+### RWA Tokenization — Fractional Real Estate 🔒
 `DAML · Canton Network`
 
 Fractional real estate ownership on Canton. DAML contracts modelling parcel ownership, fractionalization logic, and transfer authority with explicit visibility rules. Instant settlement via Canton domains. Ownership invariants enforced at contract level.
 
 ---
 
-### T-Bill Tokenization
+### T-Bill Tokenization 🔒
 `DAML · Canton Network`
 
 Treasury bill lifecycle on Canton: purchase, holding, redemption. Signature-based authorization. Deterministic financial contracts with finality guarantees.
 
 ---
 
-### CertiLink — Blockchain Certificate Management
-`Solidity · React · Ethereum`
-
-Decentralized certificate issuance and verification. Smart contracts for on-chain certificate anchoring. Issuer and verifier flows with no central database dependency. → [View repo](https://github.com/Neethu-Muthu/CertiLink-DApp)
-
----
-
-### SSI Credential System
+### SSI Credential System 🔒
 `Hyperledger Identus · React`
 
 Self-sovereign identity credential flow built on Identus. DID-based issuance, holder management, and verifier presentation. Trust without a central registry.
 
 ---
 
+## Open Source Projects
+
+### CertiLink — Blockchain Certificate Management
+`Solidity · React · Ethereum`
+
+Decentralized certificate issuance and verification. Smart contracts for on-chain certificate anchoring. Issuer and verifier flows with no central database dependency.
+→ [View repo](https://github.com/Neethu-Muthu/CertiLink-DApp)
+
+---
+
 ### Automobile Lifecycle — Hyperledger Fabric
 `Hyperledger Fabric · Go · Minifabric`
 
-Multi-org Fabric network for automobile lifecycle tracking: manufacture, sale, service history, ownership transfer. Go chaincode with full audit trail. → [View repo](https://github.com/Neethu-Muthu/Automobile-Minifabric-Golang)
+Multi-org Fabric network for automobile lifecycle tracking: manufacture, sale, service history, ownership transfer. Go chaincode with full audit trail.
+→ [View repo](https://github.com/Neethu-Muthu/Automobile-Minifabric-Golang)
 
 ---
 
 ### SecureBallot — Blockchain Voting
 `Hyperledger Fabric · Node.js`
 
-Permissioned voting system on Hyperledger Fabric. Confidential ballot submission with verifiable audit trail. Multi-org channel design. → [View repo](https://github.com/Neethu-Muthu/SecureBallot-Hyperledger)
+Permissioned voting system on Hyperledger Fabric. Confidential ballot submission with verifiable audit trail. Multi-org channel design.
+→ [View repo](https://github.com/Neethu-Muthu/SecureBallot-Hyperledger)
 
 ---
 
