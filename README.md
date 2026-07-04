@@ -13,13 +13,6 @@
   <img src="https://skillicons.dev/icons?i=go,nodejs,kubernetes,docker,react,solidity" alt="Tech stack"/>
 </p>
 
-<br>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neethu-Muthu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" alt="Neethu's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neethu-Muthu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
 ---
 
 ### Open Source
