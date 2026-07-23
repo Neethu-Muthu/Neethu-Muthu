@@ -2,7 +2,6 @@
 <h3 align="center">Blockchain Engineer — Hyperledger Fabric · DAML/Canton · Kubernetes</h3>
 
 - 🔗 Working at the permissioned DLT layer — Fabric network architecture, chaincode, and the Kubernetes infra it runs on
-- ⚙️ Currently deploying a multi-cluster Hyperledger Fabric network across Azure AKS and AWS EKS
 - 🧩 Also building on DAML/Canton — participant nodes, multi-party workflows, tokenization contracts
 - 🔒 Client engagements (CBDC, RWA tokenization, SSI credentials) are under NDA — happy to walk through the architecture on request
 - 💬 Ask me about Fabric, Canton, or Kubernetes ops [here](https://github.com/Neethu-Muthu/Neethu-Muthu/issues)
